@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is the first step in an effort to establish a scientific community interested in taking Machine Learning, in terms of learning its philosophy and applying it, to the next level. It is to include advanced topics in Machine Learning being applied in a simple straightforward investigative approach on Linux machines.
+This repository is the first step in an effort to, God willing, establish a scientific community interested in taking Machine Learning, in terms of learning its philosophy and applying it, to the next level. It is to include advanced topics in Machine Learning being applied in a simple straightforward investigative approach on Linux machines.
 
 # Rules
 
